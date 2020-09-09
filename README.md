@@ -8,5 +8,8 @@ npm run dev
 
 Go to localhost:3000
 
-![/example/2.png](/example/2.png)
+
 ```
+## DEMO
+![sample](/example/2.png)
+![sample](/example/1.png)
